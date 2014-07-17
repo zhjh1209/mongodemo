@@ -8,8 +8,8 @@ import (
 )
 
 type Person struct {
-	Name  string
-	Phone string
+	Name   string
+	Phone  string
 }
 
 func main() {
